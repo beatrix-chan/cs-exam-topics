@@ -9,7 +9,7 @@
 > Topics are not ordered in any ways.
 
 - **Number Systems and Number Conversion** - Binary, hexadecimal, octal, decimal
-- **Binary Arithemtic Operations** - Adding, Subtracting, Multiplying
+- **Binary Arithmetic Operations** - Adding, Subtracting, Multiplying
 - **Fixed and Floating-point Binary** - Representing real numbers, two's compliment, fixed-point binary representations, floating-point binary representations, floating-point binary
 - **CPU & Registers** - Key Components in their role in the CPU, Special Registers and their role in the FDE, the FDE cycle
 - **Logic Gates and Logic Circuits** - Logic gates, Boolean expressions, logic diagrams, truth tables
