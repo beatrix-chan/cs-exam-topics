@@ -20,8 +20,12 @@
 ***
 
 ## Table of Contents
-1. [number-systems.md](number-systems.md): Number Systems and Number Conversions
-2. [binary-numbers.md](binary-numbers.md): Binary Arithmetic Operations, Fixed and Floating-point Binary
-3. [cpu-registers.md](cpu-registers.md): CPU & Registers
-4. [boolean-algebra.md](boolean-algebra.md): Logic Gates and Circuits (Boolean Expressions, Truth Tables), Minimisation
-5. [logic.md](logic.md): Logic Gates and Logic Circuits (Logic Gates, Logic diagrams), Combinational Logic, Sequential Logic Circuits
+
+> [!NOTE]
+> Numberings in [docs](/docs/) are based on which term the contents were taught.
+
+1. [Number Systems](/docs/1.1-number_systems.md): Number Systems and Number Conversions
+2. [Binary Numbers](/docs/1.2-binary_numbers.md): Binary Arithmetic Operations, Fixed and Floating-point Binary
+3. [CPU & Registers](/docs/1.3-cpu_registers.md): CPU & Registers
+4. [Boolean Algebra](/docs/2.1-boolean_algebra.md): Logic Gates and Circuits (Boolean Expressions, Truth Tables), Minimisation
+5. [Logics](/docs/2.2-logic.md): Logic Gates and Logic Circuits (Logic Gates, Logic diagrams), Combinational Logic, Sequential Logic Circuits
