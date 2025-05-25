@@ -27,5 +27,5 @@
 1. [Number Systems](/docs/1.1-number_systems.md): Number Systems and Number Conversions
 2. [Binary Numbers](/docs/1.2-binary_numbers.md): Binary Arithmetic Operations, Fixed and Floating-point Binary
 3. [CPU & Registers](/docs/1.3-cpu_registers.md): CPU & Registers
-4. [Boolean Algebra](/docs/2.1-boolean_algebra.md): Logic Gates and Circuits (Boolean Expressions, Truth Tables), Minimisation
-5. [Logics](/docs/2.2-logic.md): Logic Gates and Logic Circuits (Logic Gates, Logic diagrams), Combinational Logic, Sequential Logic Circuits
+4. [Boolean Algebra](/docs/2.1-boolean_algebra.md): Minimisation
+5. [Logics](/docs/2.2-logic.md): Logic Gates and Logic Circuits, Combinational Logic, Sequential Logic Circuits
