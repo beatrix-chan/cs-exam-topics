@@ -14,7 +14,7 @@
 - **CPU & Registers** — Key Components in their role in the CPU, Special Registers and their role in the FDE, the FDE cycle
 - **Logic Gates and Logic Circuits** — Logic gates, Boolean expressions, logic diagrams, truth tables
 - **Minimisation** — Boolean Algebra, Karnaugh-maps
-- `NAND` only conversion
+- `NAND` only conversion *(Currently not covered in this repository)*
 - **Combinational Logic Circuits** — designing a logic circuit for a given scenario
 - **Sequential Logic Circuits** — State transition diagrams, state transition tables (excitation tables), designing a logic circuit for a given scenario
 
